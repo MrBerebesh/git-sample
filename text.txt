@@ -1,3 +1,10 @@
+sdsdfdfdssdfdsfds
+fds
+fds
+fds
+fsd
+fsd
+f
 sd<<<<<<< HEAD
 HI there +1111
 =======
@@ -7,6 +14,7 @@ Goodbye Git
 Test
 >>>>>>> parent of e20159b... change files
 branch changes
+<<<<<<< HEAD
 
 
 
@@ -15,3 +23,16 @@ branch changes
 
 
 132332131312
+=======
+     
+
+
+rer
+e
+er
+er
+er
+er
+er
+
+>>>>>>> xyu
