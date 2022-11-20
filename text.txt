@@ -1,1 +1,8 @@
+sd<<<<<<< HEAD
 HI there +1111
+=======
+Hello Git
+
+Goodbye Git
+Test
+>>>>>>> parent of e20159b... change files
